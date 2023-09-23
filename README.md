@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there 👋  I'm Oluwaseun
 
 <!--
-# Hi there! 👋 I'm Oluwaseun
-
 ## About Me
 
 I'm an aspiring Software Engineer with a passion for Software development and a strong foundation in computer science. Currently pursuing my BSc in Computer Science at the University of London, I'm excited to make a meaningful impact in the tech world through coding.
