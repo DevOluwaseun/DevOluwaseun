@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Oluwaseun
+### Hi there 👋  I'm Oluwaseun but you can call me "Tim"
 
 
 ## About Me
