@@ -15,7 +15,7 @@ I'm Oluwaseun, but you can call me Tim!  I'm an ambitious Software Engineer in t
 **Tech Stack**
 - Programming Languages: JavaScript (proficient), Python (learning)
 - Web Development: HTML, CSS, Node.js, P5.js
-- Frameworks & Libraries: ReactJS (learning)
+- Frameworks & Libraries: ReactJS
 - Other: Google IT Support Specialist Certified
 
 🌟 **Professional Highlights**:
