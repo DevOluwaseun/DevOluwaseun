@@ -1,52 +1,50 @@
-### Hi there 👋  I'm Oluwaseun but you can call me "Tim"
+# 👋 Hi, I’m Oluwaseun  
+**Software Engineer | Full-Stack Developer | Problem-Solver**
 
-## About Me
+I'm a passionate software engineer focused on building impactful digital products. With a background in Computer Science and a strong foundation in both frontend and backend development, I love transforming ideas into scalable, user-friendly applications.
 
-I'm Oluwaseun, but you can call me Tim!  I'm an ambitious Software Engineer in the making with a passion for turning code into impactful solutions.  Fueled by a strong foundation in computer science (currently pursuing my BSc at the University of London), I'm eager to make my mark in the tech industry.
+## 🚀 Projects I'm Proud Of  (in progress)
 
+### 🔧 CompliX – Smart Customer Support Ticketing System  
+A plug-and-play solution for small businesses to manage customer complaints and support tickets via chat and dashboards.  
+`React · Node.js · MongoDB · Socket.io · Express`
 
-🚀 **What Drives Me**:
-- Software Development:  Building and optimizing software is my passion. Problem-solving through code is deeply satisfying.
+### 🤖 AI Job Tracker + Resume Recommender  
+Automates job tracking while suggesting resume improvements with AI. Ideal for job seekers managing multiple applications.  
+`React · OpenAI API · Firebase · Node.js`
 
-- Innovation:  I love creating new things and finding creative solutions to technical challenges.
+### 📦 Smart Inventory Manager  
+Lightweight inventory app designed for home businesses and small retailers. Features barcode scanning and real-time stock tracking.  
+`React Native · Node.js · MongoDB · Expo`
 
-- Lifelong Learner:  Always expanding my skillset - currently diving into ReactJS and sharpening my algorithms & data structures.
+### ⚙️ CI/CD Pipeline Project  
+An end-to-end DevOps pipeline setup with GitHub Actions, Docker, and deployment to a cloud VM – built for fast, reliable releases.  
+`Docker · GitHub Actions · NGINX · DigitalOcean`
 
-**Tech Stack**
-- Programming Languages: JavaScript (proficient), Python (learning)
-- Web Development: HTML, CSS, Node.js, P5.js
-- Frameworks & Libraries: ReactJS
-- Other: Google IT Support Specialist Certified
+---
 
-🌟 **Professional Highlights**:
-- JavaScript Developer: Building web applications with a solid understanding of JavaScript
-- Problem-Solving Prowess: Certified Google IT Support Specialist, honing my troubleshooting skills.
-- Constant Explorer: Actively seeking out new technologies and building cool projects.
+## 💼 Tech Stack  
+**Languages:** JavaScript, Python, C++  
+**Frontend:** React, Tailwind CSS  
+**Backend:** Node.js, Express.js, MongoDB, MySQL  
+**DevOps & Tools:** Git, GitHub Actions, Docker, CI/CD, Postman  
+**Others:** REST APIs, Agile, UI/UX, JWT, WebSockets
 
-##  Projects
+---
 
-- Check out my projects on this profile!
-  
+## 🌱 Currently Learning  
+- Microservices & Scalable Software Architecture  
+- Advanced C++ (Academic project focus)  
+- Testing & Deployment Best Practices
 
-🫱🏾‍🫲🏻 **Let's Connect!**
+---
 
-I'm always interested in:
+## 🎯 Career Goals  
+I'm currently open to full-time software engineering opportunities. My goal is to join a collaborative team where I can continue to grow while contributing to high-impact projects.
 
-- Collaborating on awesome projects
-- Discussing the latest tech trends
-- Just having a friendly developer chat
+📫 Let’s connect:  
+[GitHub](https://github.com/DevOluwaseun) | [LinkedIn](https://www.linkedin.com/in/your-profile) |
 
+---
 
-
-## Connect with Me
-
-Reach out to me on:
-- 📧 DevOluwaseun@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/devoluwaseun)
-- 🐦 Instagram (https://Instagram.com/DevOluwaseun)
-- 🌐 Personal Website coming soon
-
-
-Let's build something amazing together 🌟 !
-
-
+*Let’s build something meaningful together.* 💡
