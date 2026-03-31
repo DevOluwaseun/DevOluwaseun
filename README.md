@@ -18,7 +18,7 @@ public one layer at a time.
 Inventory management for small businesses in developing countries.
 Low cost, mobile-friendly stock tracking with reorder alerts.
 `React · Node.js · PostgreSQL · Express`
-🔗 Live Demo | 🔗 Repo
+
 
 ### Smart Queue & Appointment System (coming soon)
 Lets customers know wait times before visiting — 
