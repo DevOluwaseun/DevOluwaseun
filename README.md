@@ -1,49 +1,54 @@
-# 👋 Hi, I’m Oluwaseun  
-**Software Engineer | Full-Stack Developer | Problem-Solver**
+# Hi, I'm Oluwaseun
 
-I'm a passionate software engineer focused on building impactful digital products. With a background in Computer Science and a strong foundation in both frontend and backend development, I love transforming ideas into scalable, user-friendly applications.
+Software Engineer building practical tools for small businesses 
+in underserved markets.
 
-## 🚀 Projects I'm Proud Of  (in progress)
+7 years in financial crime & fraud investigation before pivoting 
+into tech. I bring analytical thinking and real-world problem 
+solving to every line of code I write.
 
-### 🔧 CompliX – Smart Customer Support Ticketing System  
-A plug-and-play solution for small businesses to manage customer complaints and support tickets via chat and dashboards.  
-`React · Node.js · MongoDB · Socket.io · Express`
-
-### 🤖 AI Job Tracker + Resume Recommender  
-Automates job tracking while suggesting resume improvements with AI. Ideal for job seekers managing multiple applications.  
-`React · OpenAI API · Firebase · Node.js`
-
-### 📦 Smart Inventory Manager  
-Lightweight inventory app designed for home businesses and small retailers. Features barcode scanning and real-time stock tracking.  
-`React Native · Node.js · MongoDB · Expo`
-
-### ⚙️ CI/CD Pipeline Project  
-An end-to-end DevOps pipeline setup with GitHub Actions, Docker, and deployment to a cloud VM – built for fast, reliable releases.  
-`Docker · GitHub Actions · NGINX · DigitalOcean`
+Currently in my final year of Computer Science — building in 
+public one layer at a time.
 
 ---
 
-## 💼 Tech Stack  
-**Languages:** JavaScript, Python, C++  
-**Frontend:** React, Tailwind CSS  
-**Backend:** Node.js, Express.js, MongoDB, MySQL  
-**DevOps & Tools:** Git, GitHub Actions, Docker, CI/CD, Postman  
-**Others:** REST APIs, Agile, UI/UX, JWT, WebSockets
+## Projects
+
+### FluxInventory
+Inventory management for small businesses in developing countries.
+Low cost, mobile-friendly stock tracking with reorder alerts.
+`React · Node.js · PostgreSQL · Express`
+🔗 Live Demo | 🔗 Repo
+
+### Smart Queue & Appointment System (coming soon)
+Lets customers know wait times before visiting — 
+reducing wasted trips and improving business flow.
+`React · Node.js · PostgreSQL`
+
+### Fingerprint Attendance System (coming soon)
+Employee attendance tracking for offsite small business owners 
+using personal phones or low-cost scanners.
+`React · Node.js · PostgreSQL`
 
 ---
 
-## 🌱 Currently Learning  
-- Microservices & Scalable Software Architecture  
-- Advanced C++ (Academic project focus)  
-- Testing & Deployment Best Practices
+## Stack
+JavaScript · Python · C++  · React · Node.js · Express · PostgreSQL 
+· MongoDB · MySQL · Tailwind CSS · Git · REST APIs
 
 ---
 
-## 🎯 Career Goals  
-I'm currently open to full-time software engineering opportunities. My goal is to join a collaborative team where I can continue to grow while contributing to high-impact projects.
+## Currently
+- Final year CS undergraduate
+- Building three projects in public
+- Learning DevOps, cloud deployment & system design
+- Open to junior/mid software engineering roles in the UK
+
+---
+
 
 📫 Let’s connect:  
-[GitHub](https://github.com/DevOluwaseun) | [LinkedIn](https://www.linkedin.com/in/your-profile) |
+[Portfolio Website](https://DevOluwaseun.com) | [LinkedIn](https://www.linkedin.com/in/devoluwaseun) |
 
 ---
 
